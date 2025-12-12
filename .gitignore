@@ -22,3 +22,5 @@ site/
 token.txt
 *.egg-info
 dist/
+
+.direnv/
