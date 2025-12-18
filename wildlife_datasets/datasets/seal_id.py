@@ -29,7 +29,7 @@ summary = {
 class SealID(WildlifeDataset):
     summary = summary
     prefix = 'source_'
-    archive = '22b5191e-f24b-4457-93d3-95797c900fc0_ui65zipk.zip'
+    archive = '22b5191e-f24b-4457-93d3-95797c900fc0_0x9pv6i0.zip'
     
     @classmethod
     def _download(cls, url=None):
